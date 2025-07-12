@@ -5,10 +5,10 @@ const config: CapacitorConfig = {
   appId: 'app.lovable.signalscribealertbell',
   appName: 'signal-scribe-alert-bell-05',
   webDir: 'dist',
-  server: {
-    url: 'https://2d7d3733-b278-4c8c-90fb-4c2f861b9411.lovableproject.com?forceHideBadge=true',
-    cleartext: true
-  },
+  // server: {
+  //   url: 'https://2d7d3733-b278-4c8c-90fb-4c2f861b9411.lovableproject.com?forceHideBadge=true',
+  //   cleartext: true
+  // },
   plugins: {
     SplashScreen: {
       launchShowDuration: 2000,
