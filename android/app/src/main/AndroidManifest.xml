@@ -12,7 +12,7 @@
         <activity
             android:exported="true"
             android:launchMode="singleTask"
-            android:name="app.lovable.signal_scribe_alert_bell_69.MainActivity"
+            android:name="app.lovable.signalscribealertbell.MainActivity"
             android:theme="@style/AppTheme.NoActionBarLaunch">
 
             <intent-filter>
