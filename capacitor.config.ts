@@ -2,7 +2,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.2d7d3733b2784c8c90fb4c2f861b9411',
+  appId: 'app.lovable.signalscribealertbell',
   appName: 'signal-scribe-alert-bell-05',
   webDir: 'dist',
   server: {
